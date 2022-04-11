@@ -1,8 +1,8 @@
 data_action = [
     {
-        title: "Attack",
+        title: "Attack (Extra Attack)",
         icon: "crossed-swords",
-        subtitle: "Melee or ranged attack",
+        subtitle: "Melee or ranged attack(s)",
         description: "Perform a melee or ranged attack with your weapon",
         reference: "PHB, pgs. 192,194-195.",
         bullets: [
@@ -14,9 +14,9 @@ data_action = [
         ]
     },
     {
-        title: "Grapple",
+        title: "Attack (Grapple)",
         icon: "grab",
-        subtitle: "Special melee attack",
+        subtitle: "Stop a creature moving",
         description: "Attempt to grab a creature or wrestle with it",
         reference: "PHB, pg. 195.",
         bullets: [
@@ -27,9 +27,9 @@ data_action = [
         ]
     },
     {
-        title: "Shove",
+        title: "Attack (Shove)",
         icon: "hand",
-        subtitle: "Special melee attack",
+        subtitle: "Push a creature down or away",
         description: "Shove a creature, either to knock it prone or push it away from you",
         reference: "PHB, pg. 195.",
         bullets: [

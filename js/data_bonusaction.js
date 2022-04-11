@@ -32,5 +32,58 @@ data_bonusaction = [
         bullets: [
 
         ]
-    }
+    },
+    {
+        title: "(Rogue) Dash",
+        icon: "sprint",
+        subtitle: "Double movement speed",
+        description: "Gain extra movement for the current turn",
+        reference: "PHB, pg. 192.",
+        bullets: [
+            "The increase equals your speed, after applying any modifiers."
+        ]
+    },
+    {
+        title: "(Rogue) Disengage",
+        icon: "journey",
+        subtitle: "Prevent opportunity attacks",
+        description: "Your movement doesn't provoke opportunity attacks for the rest of the turn",
+        reference: "PHB, pg. 192.",
+        bullets: [
+        ]
+    },
+    {
+        title: "(Rogue) Hide",
+        icon: "hood",
+        subtitle: "",
+        description: "Attempt to hide",
+        reference: "PHB, pg. 192.",
+        bullets: [
+            "You can't hide from a creature that can see you. You must have total cover, be in a heavily obscured area, be invisible, or otherwise block the enemy's vision.",
+            "If you make noise (such as shouting a warning or knocking over a vase), you give away your position.",
+            "When you try to hide, make a Dexterity (Stealth) check and note the result. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
+            "A creature notices you even if it isn't searching unless your Stealth check is higher than its Passive Perception.",
+            "Out of combat, you may also use a Dexterity (Stealth) check for acts like concealing yourself from enemies, slinking past guards, slipping away without being noticed, or sneaking up on someone without being seen or heard."
+        ]
+    },
+    {
+        title: "(Barbarian) Rage",
+        icon: "",
+        subtitle: "",
+        description: "",
+        reference: "",
+        bullets: [
+            ""
+        ]
+    },
+    {
+        title: "(Bard) Bardic Inspiration",
+        icon: "",
+        subtitle: "",
+        description: "",
+        reference: "",
+        bullets: [
+            ""
+        ]
+    },
 ]
