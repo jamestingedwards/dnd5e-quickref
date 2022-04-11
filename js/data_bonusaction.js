@@ -55,7 +55,7 @@ data_bonusaction = [
     {
         title: "(Rogue) Hide",
         icon: "hood",
-        subtitle: "",
+        subtitle: "Attempt to hide",
         description: "Attempt to hide",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -68,7 +68,7 @@ data_bonusaction = [
     },
     {
         title: "(Barbarian) Rage",
-        icon: "",
+        icon: "wildfires",
         subtitle: "",
         description: "",
         reference: "",
@@ -78,7 +78,7 @@ data_bonusaction = [
     },
     {
         title: "(Bard) Bardic Inspiration",
-        icon: "",
+        icon: "tune-pitch",
         subtitle: "",
         description: "",
         reference: "",
