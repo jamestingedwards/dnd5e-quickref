@@ -69,21 +69,28 @@ data_bonusaction = [
     {
         title: "(Barbarian) Rage",
         icon: "wildfires",
-        subtitle: "",
-        description: "",
-        reference: "",
+        subtitle: "Hit harder and take less damage",
+        description: "Hit harder and take less damage",
+        reference: "PHB, pg. .",
         bullets: [
-            ""
+            "In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren’t wearing heavy armor:You have advantage on Strength checks and Strength saving throws. When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table. You have resistance to bludgeoning, piercing, and slashing damage. If you are able to cast spells, you can’t cast them or concentrate on them while raging.",
+            
+            "Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.",
+            
+            "Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.",
         ]
     },
     {
         title: "(Bard) Bardic Inspiration",
         icon: "tune-pitch",
-        subtitle: "",
-        description: "",
-        reference: "",
+        subtitle: "Give an ally a bonus on d20 rolls",
+        description: "Give an ally a bonus on d20 rolls",
+        reference: "PHB, pg. .",
         bullets: [
-            ""
+            "You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.",
+            "Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.",
+            "You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.",
+            "Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
         ]
     },
 ]
